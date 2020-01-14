@@ -1,0 +1,7 @@
+entity_id,store_id,parent,is_active,include_in_menu,name,available_sort_by,url_key,position
+3,0,2,1,1,Category12,"position,name,price",wqe1123111abcdefg11111vinh,2
+4,0,2,1,1,Category22,"position,name",aswq22211abcdefg12211v,2
+5,0,2,1,1,Child 1 – 12,"position,price",ads32312abcdefg13311v,4
+6,0,2,1,1,Child 1 – 22,"position,name,price",sad342413abcdefg14411v,3
+7,0,2,1,1,Child 2 – 12,"position,price",csar42514abcdefg15411v,5
+8,0,2,1,1,Child 2 – 22,"position,name",adwqdwq1vinhv,6
